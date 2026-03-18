@@ -76,3 +76,10 @@ function loadPage(index) {
 // Initialize first page
 loadPage(currentPage);
 
+const startScreen = document.getElementById("startScreen");
+const musics = document.getElementById("bgMusic"); // or your currentMusic element
+
+startScreen.addEventListener("click", () => {
+  music.play().catch(()=>{});  // iOS now allows playback
+  startScreen.style.display = "none";  // remove overlay
+});
