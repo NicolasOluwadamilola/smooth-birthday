@@ -72,14 +72,4 @@ function loadPage(index) {
     });
   }
 
-const startScreen = document.getElementById("startScreen");
-const music = document.getElementById("bgMusic");
 
-startScreen.addEventListener("click", () => {
-  music.play();           // Safari now allows it
-  startScreen.style.display = "none"; // Remove overlay
-});
-}
-
-// Initialize first page
-loadPage(currentPage);
