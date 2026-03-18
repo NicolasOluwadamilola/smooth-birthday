@@ -39,7 +39,7 @@ body {
 /* Handwriting effect */
 .handwriting {
   font-family: 'Times New Roman', Times, serif;
-  font-size: 1.8em;
+  font-size: 0.8em;
   overflow: hidden;
   width: 100%;
   max-width: 600px; /* maximum width for readability */
