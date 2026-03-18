@@ -16,7 +16,7 @@ const pages = [
     id: 1,
     name: "Oyindasola 💖",
     heading: "Happy Birthday 🎉",
-    message: "January brought you into January brought more than just a new year… it made our paths cross. \nWhat started as a simple meeting became something I never expected; it became a friendship. \nFrom the very first conversations, there was something different… something genuine.And somehow, in such a short time because you just won't leave me alone😂, you became a friend. \nToday isn’t just about your birthday… it’s about celebrating the amazing person I'm lucky to call my friend 💕",
+    message: "January brought more than just a new year… it made our paths cross. \nWhat started as a simple meeting became something I never expected; it became a friendship. \nFrom the very first conversations, there was something different… something genuine.And somehow, in such a short time because you just won't leave me alone😂, you became a friend. \nToday isn’t just about your birthday… it’s about celebrating the amazing person I'm lucky to call my friend 💕",
     song: "Happy Birthday  Evi Edna Ogholi  Official Video - Premier Records Limited.mp3",
     bg: "linear-gradient(135deg, #0d3c52, #d9dde7)"
   },
