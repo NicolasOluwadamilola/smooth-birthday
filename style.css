@@ -49,7 +49,7 @@ body {
   animation: typing 4s steps(60, end) forwards, blink 0.8s infinite;
   margin-top: 20px;
   text-align: center; /* center the paragraph */
-  color: "black"
+  color: black
 }
 @keyframes typing { from { width:0 } to { width:100% } }
 @keyframes blink { 50% { border-color: transparent } }
