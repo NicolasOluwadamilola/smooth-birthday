@@ -30,7 +30,7 @@ const pages = [
   },
   {
     id: 3,
-    name: "Dorcas",
+    name: "Dorcas💖",
     heading: "Cheers to many more Years🥂🥳",
     message: "Our friendship may be new, but it means so much to me. \nThe random talks, the little moments, they all matter more than you probably realize (even though you act like a goat sometimes). \nAnd I truly hope this is just the beginning of many more memories together 💫",
     song: "simi birthday.mp3",
